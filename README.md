@@ -23,8 +23,8 @@ A Retrieval-Augmented Generation (RAG) system that enables intelligent question-
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/Ilaye32/Ready-tensor-Project-1
+cd Ready-tensor-Project-1
 ```
 
 2. **Create and activate a virtual environment**
